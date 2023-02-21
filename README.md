@@ -3,7 +3,7 @@
 - :seedling: I’m currently learning everything.
 - :zap: Fun fact: I love gaming.
 
-Hello everyone I am creating a ReactJs-based website here you will find a wealth of information about the various cryptocurrency coins that are available, including their market prices, trading volumes, and more.
+I'm a Graduated Software Engineer and passionate Front End Developer from Pakistan PK. I love being in this line of work because I'm passionate about technology and innovation.
 
 ## :sparkles:My Stats
 
