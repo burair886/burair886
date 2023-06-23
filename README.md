@@ -3,7 +3,7 @@
 - :seedling: I’m currently learning everything.
 - :zap: Fun fact: I love gaming.
 
-I'm a Graduated Software Engineer and passionate Front End Developer from Pakistan PK. I love being in this line of work because I'm passionate about technology and innovation.
+I'm a Software Engineer and passionate Front End Developer from Pakistan PK. I love being in this line of work because I'm passionate about technology and innovation.
 
 ## :sparkles:My Stats
 
